@@ -1,0 +1,100 @@
+Cat Snoot0 alley grey 7 38.0 regular 
+Dog Rover0 basenji grey 6 108.0 false otter 
+Cat Snoot1 siamese brown 4 40.0 crystals 
+Dog Rover1 basenji brown 6 62.0 false whip 
+Cat Snoot2 siamese brown 4 46.0 corn 
+Dog Rover2 basenji grey 3 191.0 true sickle 
+Cat Snoot3 turkishvan grey 3 5.0 scoopable 
+Dog Rover3 doberman grey 9 234.0 true ring 
+Cat Snoot4 alley grey 6 10.0 scoopable 
+Dog Rover4 spaniel brown 4 75.0 false otter 
+Cat Snoot5 alley grey 6 39.0 crystals 
+Dog Rover5 doberman brown 9 144.0 true otter 
+Cat Snoot6 sphynx grey 6 35.0 scoopable 
+Dog Rover6 spaniel brown 7 51.0 true bobbed 
+Cat Snoot7 sphynx black 3 53.0 scoopable 
+Dog Rover7 basenji black 3 160.0 true docked 
+Cat Snoot8 ragdoll grey 7 58.0 regular 
+Dog Rover8 doberman brown 3 171.0 false ring 
+Cat Snoot9 siamese grey 7 60.0 scoopable 
+Dog Rover9 doberman grey 8 14.0 false docked 
+Cat Snoot10 sphynx brown 2 40.0 scoopable 
+Dog Rover10 doberman brown 9 198.0 false ring 
+Cat Snoot11 sphynx grey 5 13.0 regular 
+Dog Rover11 basenji black 4 212.0 true whip 
+Cat Snoot12 turkishvan grey 9 57.0 regular 
+Dog Rover12 spaniel grey 3 73.0 true docked 
+Cat Snoot13 sphynx grey 9 55.0 corn 
+Dog Rover13 basenji grey 5 89.0 true otter 
+Cat Snoot14 turkishvan black 6 30.0 scoopable 
+Dog Rover14 spaniel black 5 204.0 false docked 
+Cat Snoot15 sphynx grey 9 42.0 crystals 
+Dog Rover15 basenji brown 8 190.0 false sickle 
+Cat Snoot16 ragdoll brown 7 12.0 regular 
+Dog Rover16 spaniel black 9 234.0 false docked 
+Cat Snoot17 ragdoll black 5 34.0 regular 
+Dog Rover17 doberman brown 5 16.0 false sickle 
+Cat Snoot18 siamese brown 7 45.0 crystals 
+Dog Rover18 doberman brown 5 91.0 true sickle 
+Cat Snoot19 ragdoll brown 3 7.0 crystals 
+Dog Rover19 basenji grey 2 229.0 true ring 
+Cat Snoot20 ragdoll brown 6 48.0 crystals 
+Dog Rover20 doberman grey 9 214.0 true ring 
+Cat Snoot21 siamese grey 7 54.0 scoopable 
+Dog Rover21 doberman brown 4 23.0 false docked 
+Cat Snoot22 siamese brown 2 4.0 scoopable 
+Dog Rover22 basenji grey 6 61.0 true otter 
+Cat Snoot23 sphynx brown 2 7.0 regular 
+Dog Rover23 lab black 5 184.0 false bobbed 
+Cat Snoot24 siamese brown 7 12.0 scoopable 
+Dog Rover24 lab brown 4 89.0 true otter 
+Cat Snoot25 alley grey 8 20.0 crystals 
+Dog Rover25 spaniel brown 4 84.0 true ring 
+Cat Snoot26 ragdoll brown 8 28.0 regular 
+Dog Rover26 spaniel black 6 45.0 true docked 
+Cat Snoot27 alley black 8 37.0 corn 
+Dog Rover27 lab grey 9 59.0 true bobbed 
+Cat Snoot28 sphynx brown 3 50.0 regular 
+Dog Rover28 poodle brown 8 147.0 false sickle 
+Cat Snoot29 alley black 9 41.0 crystals 
+Dog Rover29 spaniel black 8 123.0 true otter 
+Cat Snoot30 ragdoll grey 2 58.0 regular 
+Dog Rover30 lab grey 6 32.0 true docked 
+Cat Snoot31 ragdoll black 2 9.0 crystals 
+Dog Rover31 lab grey 3 27.0 false otter 
+Cat Snoot32 alley grey 2 18.0 regular 
+Dog Rover32 spaniel black 7 158.0 false bobbed 
+Cat Snoot33 turkishvan black 2 57.0 crystals 
+Dog Rover33 basenji grey 8 195.0 false ring 
+Cat Snoot34 turkishvan black 2 21.0 scoopable 
+Dog Rover34 doberman grey 7 6.0 true otter 
+Cat Snoot35 siamese black 6 56.0 crystals 
+Dog Rover35 poodle black 3 128.0 true whip 
+Cat Snoot36 turkishvan grey 5 8.0 regular 
+Dog Rover36 spaniel black 5 196.0 true bobbed 
+Cat Snoot37 turkishvan grey 4 29.0 crystals 
+Dog Rover37 poodle black 3 72.0 true bobbed 
+Cat Snoot38 siamese brown 7 23.0 corn 
+Dog Rover38 basenji grey 4 92.0 true docked 
+Cat Snoot39 sphynx brown 9 7.0 regular 
+Dog Rover39 spaniel grey 5 25.0 false whip 
+Cat Snoot40 siamese grey 9 5.0 crystals 
+Dog Rover40 poodle black 4 121.0 true otter 
+Cat Snoot41 alley brown 8 35.0 crystals 
+Dog Rover41 doberman black 3 20.0 true whip 
+Cat Snoot42 sphynx brown 9 28.0 scoopable 
+Dog Rover42 poodle brown 3 107.0 true docked 
+Cat Snoot43 siamese grey 5 38.0 crystals 
+Dog Rover43 poodle black 8 220.0 false whip 
+Cat Snoot44 siamese grey 7 6.0 crystals 
+Dog Rover44 poodle black 8 174.0 false sickle 
+Cat Snoot45 sphynx grey 7 57.0 corn 
+Dog Rover45 doberman black 4 205.0 true bobbed 
+Cat Snoot46 ragdoll black 6 27.0 regular 
+Dog Rover46 basenji grey 3 79.0 true whip 
+Cat Snoot47 sphynx grey 3 32.0 corn 
+Dog Rover47 doberman black 6 7.0 false bobbed 
+Cat Snoot48 siamese brown 9 29.0 corn 
+Dog Rover48 lab grey 5 190.0 true otter 
+Cat Snoot49 turkishvan brown 7 30.0 crystals 
+Dog Rover49 basenji black 9 229.0 true docked 
