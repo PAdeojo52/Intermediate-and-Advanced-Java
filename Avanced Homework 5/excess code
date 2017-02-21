@@ -1,0 +1,28 @@
+int index;
+		
+		animalList.add(n);
+		for (Animal element : animalList) 
+		{
+			if(!animalList.contains(element))
+			{
+				//System.out.println(element);
+				index = element.hashCode()%9;
+
+				if(index<0)
+				{
+					index = - index;
+				}
+				hashNumber.add(index);
+				placerNumber = hashNumber.size();
+				
+				animalHashMap.put(n, colorArray[hashNumber.get(placerNumber)]);
+
+			}
+			
+		}
+		
+		//System.out.println(hashNumber);
+
+
+		
+		obNameList.add(n);
