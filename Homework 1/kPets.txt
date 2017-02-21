@@ -1,0 +1,6 @@
+Dog Osomatsu Tayo 1 bulldog red
+Dog Karamatsu Anthony 2 doberman blue
+Cat Chromatsu Alexis 3 short declawed green
+Cat Ichimatsu Bose 4  long clawed violet
+Other Lizard Jushimatsu Edward 5 Yes
+Other Bird Todomatsu Alphonse 6 No
